@@ -1,4 +1,4 @@
-# round-robin-scheduling
+# Round Robin Scheduling
 
 • This is an implemenation of the Round Robin scheduling algorithm (just simulation) with Python.
 
