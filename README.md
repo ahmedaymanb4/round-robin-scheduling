@@ -1,5 +1,7 @@
 # Round Robin Scheduling
 
+## Project Requirements
+
 • This is an implemenation of the Round Robin scheduling algorithm (just simulation) with Python.
 
 • GUI is a must for the project (Gantt Chart must be provided).
