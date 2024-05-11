@@ -15,3 +15,8 @@
 
 - [CPU Scheduling Basics](https://youtu.be/Jkmy2YLUbUY) YouTube video, by [Jacob Sorber](https://www.youtube.com/@JacobSorber)
 - [Program for Round Robin Scheduling for the same Arrival time](https://www.geeksforgeeks.org/program-for-round-robin-scheduling-for-the-same-arrival-time/) by [GeeksforGeeks](https://www.geeksforgeeks.org)
+
+---
+## Credits:
+
+This project is implemented in collaboration with [@AmiraAhmed11](https://github.com/AmiraAhmed11) & other team members outside GitHub
